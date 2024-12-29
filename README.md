@@ -1,6 +1,6 @@
 # CHTML
 
-This is a transpiler which transforms the HTML markup language into a full working turing programming language.
+This is a transpiler which transforms the HTML markup language into a full working turing complete programming language.
 
 ## How to use
 
